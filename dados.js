@@ -67,22 +67,22 @@ let povos = [
         tags: "astronomia indígena, cosmologia, mitos, constelações,",
     },
     {
-        titulo: "Iorubá",
+        titulo: "Yorubás",
         descricao: "Os iorubá utilizavam a observação dos astros, principalmente do Sol e da Lua, para determinar as estações do ano e os períodos mais adequados para o plantio e a colheita. Os orixás, divindades iorubás, estavam associados a diferentes astros e fenômenos celestes. Por exemplo, Orunmilá, o orixá da adivinhação, era frequentemente associado ao Sol, enquanto Oxum, a orixá da água doce, estava ligada à Lua. Os conhecimentos astronômicos eram essenciais para a orientação durante longas viagens e para a delimitação de territórios.Embora não se tenha registros detalhados sobre os instrumentos astronômicos utilizados pelos iorubá, é provável que eles tenham empregado diversos objetos naturais e artificiais para observar o céu, como postes, árvores e pedras. A astronomia iorubá teve uma grande influência em outras culturas africanas e nas Américas, especialmente no Brasil, onde os conhecimentos astronômicos foram incorporados às práticas religiosas de matriz africana, como o Candomblé.",
         link: "https://pt.wikipedia.org/wiki/Povo_iorubá",
-        tags: "áfrica religião mitologia brasil"
+        tags: "áfrica religião mitologia brasil ioruba, yorubá, yoruba"
     },
     {
         titulo: "Dinka",
         descricao: "Os dinca, um povo nilótico do Sudão do Sul, possuem uma profunda conexão com o céu e seus astros. A observação celestial é fundamental para sua vida, guiando atividades como a agricultura, a criação de gado e a organização social. O conhecimento astronômico é transmitido oralmente de geração em geração, sendo parte integrante de suas crenças religiosas e mitologias. A posição das estrelas, a fase da lua e o movimento do sol servem como calendário natural, indicando os melhores períodos para o plantio, a colheita e a realização de rituais.",
         link: "https://pt.wikipedia.org/wiki/Dinka",
-        tags: "sudão pastor nomadismo"
+        tags: "sudão pastor nomadismo dinca"
     },
     {
-        titulo: "Bantos",
+        titulo: "Bantus",
         descricao: "Seus conhecimentos celestes foram cruciais para a organização de suas sociedades, influenciando desde a agricultura até a religião. Através da observação cuidadosa do sol, da lua e das estrelas, os povos bantu desenvolveram calendários precisos, que guiavam suas atividades agrícolas e rituais. A posição dos astros também era utilizada para a orientação em longas jornadas e para a demarcação de territórios. É importante ressaltar que a astronomia dos povos bantu é extremamente diversificada, variando significativamente entre as diferentes culturas e regiões. No entanto, alguns elementos comuns podem ser identificados, como a importância da observação do ciclo lunar para a regulação das atividades agrícolas e a associação de constelações a animais, objetos e seres mitológicos.",
         link: "https://pt.wikipedia.org/wiki/Povos_bantos",
-        tags: "áfrica subsaariana agricultura pesca"
+        tags: "áfrica subsaariana agricultura pesca bantos " 
     },
     {
         titulo: "Constelação da Ema",
