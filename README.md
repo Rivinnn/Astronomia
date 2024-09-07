@@ -1,16 +1,23 @@
 # Astronomia dos Povos Originários
 
-## Descrição
-Este projeto web tem como objetivo apresentar de forma simples e interativa a relação entre os povos originários e a astronomia. Através de uma pesquisa rápida, o usuário pode descobrir como diferentes culturas indígenas interpretavam e utilizavam os fenômenos celestes.
+**Motivação**
+
+Sempre fui fascinado pela astronomia. A experiência de estudar a cosmologia dos povos norte-americanos durante um intercâmbio no ensino médio me inspirou a criar um espaço digital dedicado à rica e diversificada astronomia dos povos originários brasileiros. Acredito que essa parte fundamental da nossa história e cultura ainda é pouco conhecida pelo grande público.
+
+**Objetivo**
+
+Com este projeto, busco **democratizar o acesso** ao conhecimento astronômico dos povos originários, promovendo a valorização de suas tradições e contribuições para a ciência. Desejo que este site sirva como um ponto de partida para que mais pessoas se interessem e se conectem com o céu que nossos ancestrais observavam.
+
 
 ## Tecnologias Utilizadas
 * **HTML:** Estrutura básica da página web.
 * **CSS:** Estilização da página, definindo a aparência visual.
 * **JavaScript:** Lógica da aplicação, incluindo a pesquisa e a renderização dos resultados.
+* **GoogleGemini** Inteligencia artificial utilizada para corrigir problemas e contribuir com dados.
 
 ## Funcionamento
-1. **Pesquisa:** O usuário digita o nome de um povo originário no campo de pesquisa.
-2. **Busca:** A aplicação busca por correspondências entre a entrada do usuário e os dados dos povos cadastrados em um arquivo JSON (não incluso neste repositório).
+1. **Pesquisa:** O usuário digita o nome de um povo originário, constelação ou assunto relacionado a astronomia no campo de pesquisa.
+2. **Busca:** A aplicação busca por correspondências entre a entrada do usuário e os dados dos povos e constelações cadastrados em um arquivo JavaScript.
 3. **Resultados:** Os resultados da pesquisa são exibidos na tela, com informações sobre o povo, como o título, descrição e um link para mais informações.
 4. **Nenhum resultado:** Se a pesquisa não encontrar correspondências, uma mensagem informativa é exibida.
 
@@ -23,7 +30,7 @@ Este projeto web tem como objetivo apresentar de forma simples e interativa a re
 * **index.html:** Arquivo principal da página web.
 * **style.css:** Arquivo de estilo para a página.
 * **app.js:** Arquivo JavaScript com a lógica da aplicação.
-* **dados.js:** Arquivo JavaScript contendo os dados dos povos originários (não incluso neste repositório).
+* **dados.js:** Arquivo JavaScript contendo os dados dos povos originários.
 
 ## Próximos Passos
 * **Expandir a base de dados:** Incluir mais povos e informações sobre suas cosmologias.
@@ -31,14 +38,13 @@ Este projeto web tem como objetivo apresentar de forma simples e interativa a re
 * **Criar um mapa interativo:** Visualizar a distribuição geográfica dos povos e seus conhecimentos astronômicos.
 * **Desenvolver um sistema de comentários:** Permitir que os usuários compartilhem seus conhecimentos e façam perguntas.
 
-## Contribuições
-Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão, por favor, abra um issue ou faça um pull request.
+**Como contribuir**
 
-**Observações:**
+Você pode contribuir para este projeto de diversas formas:
 
-* **Arquivo `dados.js`:** Este arquivo não foi incluído no exemplo acima, mas ele seria crucial para o funcionamento da aplicação. Ele conterá um array de objetos, onde cada objeto representa um povo originário e possui propriedades como `titulo`, `descricao` e `link`.
-* **Personalização:** Adapte este README.md para incluir informações mais específicas sobre o seu projeto, como tecnologias adicionais utilizadas, bibliotecas, frameworks, etc.
+* **Sugestões de conteúdo:** Compartilhe informações sobre astronomia indígena que você conhece.
+* **Tradução:** Ajude a traduzir o site para outras línguas.
+* **Divulgação:** Divulgue o site em suas redes sociais e grupos de interesse.
 
-**Com este README.md, você terá um guia completo para o seu projeto, facilitando a compreensão tanto para você quanto para outros desenvolvedores.**
 
-**Gostaria de adicionar mais alguma coisa ao README.md?**
+Juntos, podemos construir um repositório completo e acessível sobre a astronomia originária brasileira.
