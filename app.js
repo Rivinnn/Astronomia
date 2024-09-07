@@ -9,19 +9,22 @@ function pesquisar() {
         section.innerHTML = "<p>Você não buscou por nenhum povo</p>"
         return
     };
-
+    
     campoPesquisa = campoPesquisa.toLowerCase();
+
     // Inicializa uma string vazia para armazenar os resultados da pesquisa
     let resultado = "";
     let titulo = "";
     let descricao = "";
+    let tags = "";
 
     // Itera sobre cada elemento do array 'povos'
     for (let dado of povos) {
         titulo = dado.titulo.toLowerCase()
-        descricao = dado.titulo.toLowerCase()
+        descricao = dado.descricao.toLowerCase()
+        tags = dado.tags.toLowerCase()
        // Se o que digitamos no campo de pesquisa é igual a um título existente, executa o código
-        if (titulo.includes(campoPesquisa) || descricao.includes(campoPesquisa)){
+        if (titulo.includes(campoPesquisa) || descricao.includes(campoPesquisa) || tags.includes(campoPesquisa)){
         
         // Constrói o HTML para cada resultado, formatando os dados do objeto 'dado'
         resultado += `
